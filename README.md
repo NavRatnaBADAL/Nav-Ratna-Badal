@@ -1,7 +1,7 @@
 # Nav-Ratna-Badal
 ### Hi there 👋, Nav Ratna Badal
 #### Design and Development
-![Design and Development](https://www.instagram.com/badalkeshri810/ )
+![Design and Development](https://github.com/NavRatnaBADAL/Nav-Ratna-Badal/blob/main/badal.jpg.jpeg)
 
 I'm Nav Ratna Badal, from india(Bihar) ,Currently pursuing B.Tech CSE from Odisha. 
 * Teaching something new every day.
