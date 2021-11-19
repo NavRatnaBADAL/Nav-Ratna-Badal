@@ -5,7 +5,10 @@
 I'm Nav Ratna Badal, from india(Bihar) ,Currently pursuing B.Tech CSE from Odisha. 
 * Teaching something new every day.
 
-Skills: HTML / CSS / JS /  React / Java / python / Android  app / DSA
+Skills and Experience
+* HTML / CSS / JS / 
+* React 
+* Java / python / Android  app / DSA
 
 
   🌱 I’m currently learning Android app development 
